@@ -1,35 +1,34 @@
-🌟 Feedback Form
+🌐 Feedback Form Website
 
-A simple and stylish feedback form built with HTML, CSS, and JavaScript.
-Users can enter their name, email, and feedback — and get a quick “Thank you” message after submitting.
+A simple and responsive Feedback Form Website built with HTML, CSS, and JavaScript — created as my second and final project during my DevTech Internship.
 
-🔗 Live Demo
-
-👉 https://nattyhow30-cell.github.io/Dev/
+🔗 Live Demo: https://nattyhow30-cell.github.io/Dev-Tech_Project-02/
+💻 GitHub Repo: https://github.com/nattyhow30-cell/Dev-Tech_Project-02
+---
 
 ✨ Features
 
-Clean and modern design
+Clean and simple feedback form
 
-Responsive layout
+Responsive design with CSS
 
-Instant “Thank you” message
+“Thank you” message after submission (JavaScript)
 
-No data storage — for learning purpose only
+Hosted on GitHub Pages
+---
 
+🛠️ Technologies Used
 
-🧩 Built With
+HTML5
 
-HTML – structure
+CSS3
 
-CSS – styling
+JavaScript
 
-JavaScript – form behavior
-🧠 Purpose
+GitHub Pages
 
-Made to practice form handling, styling, and basic interactivity.
+---
+🙌 Acknowledgment
 
-
-👨‍💻 Author
- Natnael Baynesagn 
- 
+Created as part of my DevTech Internship.
+Huge thanks to DevTech and my mentors for the support and guidance throughout the journey!
